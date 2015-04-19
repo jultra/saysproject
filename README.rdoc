@@ -1,7 +1,7 @@
 == README
 Hahaha
 This README would normally document whatever steps are necessary to get the
-application up and running.
+application up and running. Hahaha
 
 0Things y ahsjhjshsjhdou may want to cover: Hahaha
 
